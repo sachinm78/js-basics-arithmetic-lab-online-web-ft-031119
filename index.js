@@ -7,3 +7,5 @@ let multiply = var1 * var2;
 let random = Math.random();
 
 let mod = 20 % 8;
+
+let max = Math.max(20);
