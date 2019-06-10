@@ -5,3 +5,5 @@ let var2 = 31;
 let multiply = var1 * var2;
 
 let random = Math.random();
+
+let mod = 16 % 4;
