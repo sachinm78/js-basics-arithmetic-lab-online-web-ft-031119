@@ -6,4 +6,4 @@ let multiply = var1 * var2;
 
 let random = Math.random();
 
-let mod = 16 % 4;
+let mod = 20 % 4;
